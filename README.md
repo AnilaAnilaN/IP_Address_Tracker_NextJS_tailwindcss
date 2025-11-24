@@ -15,16 +15,10 @@ Users should be able to:
 - View key details like location, timezone, and ISP
 - See the precise location marked on a Leaflet map
 
-## Screenshot
-
-./screenshot.png
-
-
-
 ## Links
 
 - **Live Site:** https://ip-address-tracker-next-js-tailwind.vercel.app/  
-- **Frontend Mentor Solution:** [to be added]
+- **Frontend Mentor Solution:** https://ip-address-tracker-next-js-tailwind.vercel.app/
 
 ## Built With
 
@@ -109,7 +103,7 @@ Or via your Next.js API route:
 
 * Frontend Mentor — Anila Nawaz
 * GitHub — https://github.com/AnilaAnilaN/
-* Portfolio — your link (optional)
+* Portfolio — https://github.com/AnilaAnilaN/Anila-portfolio-NextJS
 
 ## Acknowledgments
 
