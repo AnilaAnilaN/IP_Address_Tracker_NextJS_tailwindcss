@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  font-family: 'Rubik', sans-serif;
+}
+
+/* Custom color variables for Tailwind v4 */
+@theme {
+  --color-gray-950: hsl(0, 0%, 17%);
+  --color-gray-400: hsl(0, 0%, 58%);
+  --color-gray-200: hsl(0, 0%, 90%);
+}
+
+/* Leaflet map adjustments */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+}
+
+.leaflet-control-attribution {
+  font-size: 10px;
+}
+
+/* Remove leaflet zoom controls on mobile */
+@media (max-width: 768px) {
+  .leaflet-control-zoom {
+    display: none;
+  }
+}
+
+/* Smooth transitions */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
