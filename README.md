@@ -23,8 +23,8 @@ Users should be able to:
 
 ## Links
 
-- **Live Site:** Add link here  
-- **Frontend Mentor Solution:** Add link here
+- **Live Site:** https://ip-address-tracker-next-js-tailwind.vercel.app/  
+- **Frontend Mentor Solution:** [to be added]
 
 ## Built With
 
